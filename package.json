@@ -1,0 +1,23 @@
+{
+  "name": "apr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/app.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
+    "express": "^4.17.1",
+    "financejs": "^4.1.0",
+    "mocha": "^6.0.2",
+    "mongodb": "^3.3.2",
+    "tracer": "^0.9.8"
+  }
+}
