@@ -16,7 +16,7 @@
     "chai-http": "^4.2.1",
     "express": "^4.17.1",
     "financejs": "^4.1.0",
-    "mocha": "^6.0.2",
+    "mocha": "^10.2.0",
     "mongodb": "^3.3.2",
     "tracer": "^0.9.8"
   }
